@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "devops-practice-401418",
+  "private_key_id": "b1e68a84d52a9b410fd6fa9a8fe8fc4ccf08dbd5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuZGKDgSWU5ZnA\nbGfYK8oNE0WSWWriS/For1RdEqkAvxvML1l07JaT/2kMlYz+ySSq+kXi2VRv+5fo\nWC+hp287WKjt6gBk1+/CwV7w/ra6Ml+AWnwKRmW2xC+5SoPAB7iabC2BDv6w+bGH\nqn4Dr0E9m3NT7gL7ojDv1m5DS949/EhGJjnaXr0RuruBmiPs2mh35qsB6hK4Zr1P\nsSTnY+kwxScdxlUolNJ08LWGeEhDLM9J1uysL1ignX2XGrpAyPe5ogMUQ1h0/QlM\n0wYKOg+P8xIZKajtYPlNbMAzjEWD9W1fybnmcVGDhb8gfsy/EJJa0XQaOuLhxgOI\nJhNg7C7jAgMBAAECggEAENe2IgBDmm1QW6K8psaX5Ypicj97kK6H+rXQPoryUpWi\ngCZki+PbqSCGS0ZYTzUq+u5f+IhH3ObeJXz64LB0kDVAX3X1oseuKs+VNU5MZJA/\n4/wZNb7VzQCGoW0ea1nzjMp83JWPqJT8/d7L+9wdv273hPgcRqRD+K3riUlXBgJi\nHf95zNuJakprg3Wls6mNFotlHWNOSF0YVBkoCcpyFh9qCO7lH4yfiK+AZxz01ADN\nlcWqQFOeTy7OhEJVeNFs7/suQp4uFm02uF0kpCoOebzFpuhVo9Ycziim8cXIAwWe\nHXmSXTxTKmNr9fbRP9aP6UTLPHTRILOkxPxMmakNwQKBgQDlqbqtV1laNaaZZBG0\nPMT+S8sBwA9JJdI9yS23xvg477E7i7kU+MWq+WR/MMvNz6s/hK3lGyPOtq64x6Sl\ntzfSZOTnTwJLbLoHo3RhFktfYJ8Y4rMwb7mrpGtWDnBfKmKKI3MMWIs9DLlrKWCT\ntDSNlY+XIGv9/OTgle53IXVhIwKBgQDCZA41cHaP3MCujBBoWstEmDMNbexapNNx\nn+TAv/qblXJ5uPaUJ2gi1s/F3whP8c/r12QemcQv82RqsfEqtzGVOjOf1VVoLAYM\nlClbbkB70PVlZbQl70E7u1lrgL/av/8x+rp2rXBJTCo/pWL4ukywlwo667DHbcGh\nbzDu8MA3QQKBgQCLOhPzVcrTR0cSInohG94Ik4YkL3yUyZrk3fsbOEHuslBtWsz/\nC7k5ZysneDt1L3oPba3GAGf6vwC5AD6uP55Vq9ig6WLouqckTlEVMmDLF1YbzgL3\nUCPtDCYN637wEk/ekpMCXwM6JWaasmDb6hkZ5BtCcONG/HL8O6hvDBeOpQKBgCKb\n1bvF7hXm45cv8KvjnlT0FALME0yAE/Ui1oNKqr+Qd/Ub7SqraWrqe8tqzfwNvUrr\n6jNYhQlUeAhW7e0A+J7s4cwPG0mUrO8IYeSZWHmy1j3bQZuPYTnVPTJalc3IaRLo\n5NHERz2FhfAW7ewCnyzBd1zOIYcgD11Cgp/H1TEBAoGBAKKeXtLg0QU/7hOUpUzz\nIb4EKLCh43YtX/y9BIgk1gTWJfzO1pti1eXshYbaLDHwFcAWkvFLY8Ahkkd7eFAb\nsNbRMKK5DNABi7RM/g2SM/WtxjmSw+s2ALgGMlzIgfvojk/RYWhSTb7pTaAO5h8N\nLEceiqrl/wxJJKDbCoUsvfiz\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-uploader@devops-practice-401418.iam.gserviceaccount.com",
+  "client_id": "111148804630078886119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-uploader%40devops-practice-401418.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
