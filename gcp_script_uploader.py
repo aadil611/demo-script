@@ -46,7 +46,7 @@ def upload_to_gcs(bucket_name, source_file_path, destination_blob_name, credenti
 if __name__ == "__main__":
     # Replace the following variables with your specific values
     BUCKET_NAME = "aadil-devops-practice"
-    SOURCE_FILE_PATH = "demo-script/test.js"
+    SOURCE_FILE_PATH = "test.js"
     DESTINATION_BLOB_NAME = "uploaded-file.js"
     CREDENTIALS_FILE = "./uploader_helper.json"
 
